@@ -1,5 +1,8 @@
 📊 Sales Dashboard – Excel Project
 
+![Dashboard Preview](https://github.com/Hacksbos/Sales-Dashboard-Excel-Project/blob/main/Screenshot%202025-11-14%20024227.png
+))
+
 📌 Project Overview
 
 This project is an Excel-based Interactive Sales Dashboard designed to analyze the company’s sales performance across regions, products, and months.
